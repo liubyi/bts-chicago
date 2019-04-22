@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bts-chicago/precache-manifest.a883000707ffb4c8e52741f984758655.js"
+  "/bts-chicago/precache-manifest.d3e9515ce3e214d4b9daeced900d50ba.js"
 );
 
 workbox.clientsClaim();
